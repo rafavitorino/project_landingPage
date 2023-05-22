@@ -165,6 +165,9 @@ h2{
 	max-width: 17rem;
 	padding-top: 2rem;
 	padding-left: 2rem;
+	padding-right: 1rem;
+
+	text-align: justify;
 }
 
 .card:nth-child(2n){
